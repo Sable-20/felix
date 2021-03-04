@@ -1,0 +1,4 @@
+use Mix.Config
+
+config :App,
+  token: "ADD-YOUR-TOKEN"
